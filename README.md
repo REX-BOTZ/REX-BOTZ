@@ -11,4 +11,6 @@ You can click the Preview link to take a look at your changes.
 [Support Channel](https://t.me/REX_BOTZ)
 
 We Are New Growing Noob Developers From தமிழ்நாடு🇮🇳
-
+### Note
+- Mostly We Only Create Simple Bots and Other Bots in our Channel are Edited From Other's Repo
+- Channel [RᴇxBᴏᴛᴢ](telegram.me/rex_botz)
