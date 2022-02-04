@@ -14,4 +14,5 @@ We Are New Growing Noob Developers From தமிழ்நாடு🇮🇳
 ### Note
 - Mostly We Only Create Simple Bots and Other Bots in our Channel are Edited From Other's Repo
 - Channel [Rᴇx Bᴏᴛᴢ](telegram.me/rex_botz)
-- Group [Tᴇᴀᴍ Rᴇx](telegram.me/rex_bots_support)
+- Group   [Tᴇᴀᴍ Rᴇx](telegram.me/rex_bots_support)
+- Owner   [Bᴇɴᴡᴏʟғ24](telegram.me/benwolf24)
